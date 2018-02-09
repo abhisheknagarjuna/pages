@@ -1,5 +1,7 @@
-## Welcome to GitHub Pages
+## Page Underconstruction
 
+This is a page I am planning to build to showcase my projects and share my research
+```
 You can use the [editor on GitHub](https://github.com/abhisheknagarjuna/pages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -8,14 +10,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+markdown
 Syntax highlighted code block
-```
+
 
 # Test 1
 ## Test 2
 ### Test 3
-```
+
 - Bulleted
 - List
 
